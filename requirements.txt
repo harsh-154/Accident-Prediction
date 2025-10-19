@@ -1,0 +1,11 @@
+numpy
+pandas
+opencv-python
+torch
+torchvision
+tqdm
+matplotlib
+scikit-learn
+tensorflow==2.13.1
+keras==2.13.1
+tensorflow-hub==0.16.1
